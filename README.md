@@ -1,2 +1,5 @@
 # Human Pose Estimation using MoveNet with TensorFlow and Python
-> *Checkout the [blog post](https://www.visiongeek.io/2021/10/human-pose-estimation-movenet-tensorflow-python.html) for the complete step-by-step tutorial.*
+> *Checkout this [YouTube video](https://www.youtube.com/watch?v=TsFbg2DwLEE&t=5s) for the video tutorial.*
+```
+python3 movenet_single_pose.py
+```
